@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayushman Mohanty</h1>
-<h3 align="center">An aspiring Front-end Developer from India.</h3>
+<h3 align="center">Aspiring Full-stack Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-538.gif">
 
 <p align="left"> <a href="https://twitter.com/ayumohanty" target="blank"><img src="https://img.shields.io/twitter/follow/ayumohanty?logo=twitter&style=for-the-badge" alt="ayumohanty" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Javascript, CSS, React**
+- 💬 Ask me about **Javascript, CSS, React, Typescript**
 
 - 📫 How to reach me **ayushmanmohanty0503@gmail.com**
 
