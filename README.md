@@ -30,3 +30,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushman0503&show_icons=true&locale=en" alt="ayushman0503" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushman0503&" alt="ayushman0503" /></p>
+
+<hr>
+
+<h4> Spotify playing: </h4>
+
+[![Spotify](https://novatorem-2ibvzoz12-ayushman0503.vercel.app/api/spotify)](https://open.spotify.com/user/31be65flnm4f54nt4hmg62oaaazy)
