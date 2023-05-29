@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently practicing  **MERN stack.**
 
-- 🌱 I’m currently learning **jest.**
+- 🌱 I’m currently learning **typescript and mongoDB.**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
   
