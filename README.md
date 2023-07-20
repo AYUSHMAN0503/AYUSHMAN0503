@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently practicing  **MERN stack!**
 
-- 🌱 I’m currently learning **typescript and mongoDB.**
+- 🌱 I’m currently learning **integrating react with ts and jenkins.**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
   
