@@ -3,7 +3,7 @@
 
 <hr style="border-top: 1px solid red;"></hr>
 
-<p> I am student who is learning full-stack development. I have a passion to create awesome web-apps having seamles user-experience. Alongside that I am open-source enthusiast and football lover. </p>
+<p> I am student in sophomore year, learning and practicising full-stack development. I have a passion to create awesome web-apps having seamles user-experience. Alongside that I am open-source enthusiast and football lover. </p>
 
 - 🔭 I’m currently practicing  **MERN stack!**
 
