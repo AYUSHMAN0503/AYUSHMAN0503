@@ -12,7 +12,8 @@
 - 👯 I’m looking to collaborate on **open-source projects.**
   
 - 2023 Goals: <ul> <li> Getting a job.
-                  <li> Constant practice to get better at what I do! </ul>
+                  <li> Constant practice to get better at what I do!
+                  <li> Improving my WPM..</ul>
 
 - 📫 Reach me at **ayushmanmohanty0503@gmail.com**
 
