@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently practicing  **MERN stack!**
 
-- 🌱 I’m currently exploring **K8s and jenkins.**
+- 🌱 I’m currently exploring **K8s and docker.**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
   
