@@ -7,12 +7,11 @@
 
 - 🔭 I’m currently practicing  **MERN stack!**
 
-- 🌱 I’m currently exploring **K8s and docker.**
+- 🌱 I’m currently exploring **K8s and terraform**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
   
-- 2023 Goals: <ul> <li> Getting a job..
-                  <li> Constant practice to get better at full-stack..
+- 2023 Goals: <ul> <li> Constant practice to get better at full-stack..
                   <li> Improving my WPM..</ul>
 
 - 📫 Reach me at **ayushmanmohanty0503@gmail.com**
