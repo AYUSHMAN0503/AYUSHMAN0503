@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects.**
   
-- 2024 Goals: <ul> <li> Constant practice to get better at full-stack..
+- 2025 Goals: <ul> <li> Constant practice to get better at full-stack..
                   <li> Improving my WPM..</ul>
 
 - 📫 Reach me at **ayushmanmohanty0503@gmail.com**
