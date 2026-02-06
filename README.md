@@ -3,7 +3,6 @@
 
 <hr style="border-top: 1px solid red;"></hr>
 
-<p> I am student in sophomore year, learning basic DevOps while also practicising full-stack development. I have a passion to create awesome web-apps having seamless user-experience. Alongside that I am open-source enthusiast and football lover. </p>
 
 - 🔭 I’m currently practicing  **MERN stack!**
 
@@ -11,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects.**
   
-- 2025 Goals: <ul> <li> Constant practice to get better at full-stack..
+- 2026 Goals: <ul> <li> Constant practice to get better at full-stack..
                   <li> Improving my WPM..</ul>
 
 - 📫 Reach me at **ayushmanmohanty0503@gmail.com**
